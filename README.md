@@ -99,5 +99,5 @@ Sistem Ujian Online adalah platform berbasis web yang dirancang untuk sekolah da
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/exam-system.git
+git clone https://github.com/Fhendy/exam-system.git
 cd exam-system
